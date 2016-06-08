@@ -15,7 +15,7 @@ import org.apache.http.message.BasicNameValuePair;
 public class SmsSender {
 
     /* Find your sid and token at twilio.com/user/account */
-    public static final String ACCOUNT_SID = "ACca4f7d564ff760a6c0d6b6444214feb8";
+    public static final String ACCOUNT_SID = "ACca4f7d564ff760a6c0d6b6444214feb8om";
     public static final String AUTH_TOKEN = "97fa04ae3a1c30ee36b25f8b1ec0990e";
 
     public static void main(String[] args) throws TwilioRestException {
